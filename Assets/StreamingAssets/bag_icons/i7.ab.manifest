@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3521653441
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 89332ebede518d7ff8537372d1358863
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Icons/i7.png
+Dependencies: []
