@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1170674192
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b724cf97e53fb54fbc2c62859dd7d02c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Icons/i9.png
+Dependencies: []
